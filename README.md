@@ -2,8 +2,6 @@
 
 ## Want to learn how to build this project?
 
-Check out the [blog post](https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/).
-
 ## Want to use this project?
 
 1. Fork/Clone
